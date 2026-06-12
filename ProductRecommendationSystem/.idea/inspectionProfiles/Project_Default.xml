@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E301" />
+          <option value="E231" />
+          <option value="W292" />
+          <option value="E265" />
+          <option value="E114" />
+          <option value="E305" />
+          <option value="E302" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="day16.coffee_maker" />
+          <option value="day16.money_machine" />
+          <option value="mysite.mysite.urls.views" />
+          <option value="mysite.mysite.urls.DANAPP" />
+          <option value="mysite.gs3.gs3.urls.course" />
+          <option value="gs5.gs5.urls.course" />
+          <option value="gs5.gs5.urls.fees" />
+          <option value="gs6.gs6.urls.course" />
+          <option value="gs6.gs6.urls.fees" />
+          <option value="PyPdf3" />
+          <option value="project.window" />
+          <option value="project.MDAPP" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
